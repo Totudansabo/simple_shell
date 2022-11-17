@@ -319,8 +319,10 @@ $
 
 
 ## Authors ##
+Authors :black_nib:
 
-Git: [salisu shamsuddeen](https://github.com/ctotudansabo), [Nwanneka Okoronkwo](https://github.com/152263)
+* Salisu Shamsuddeen <[totudansabo](https://github.com/totudansabo)>
+* Nwanneka Okoronkwo <[152263](https://github.com/152263)>
 
 👤 **Totudansabo**
 👤 **Nwanneka Okoronkwo**
