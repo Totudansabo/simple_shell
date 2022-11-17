@@ -320,6 +320,8 @@ $
 
 ## Authors ##
 
-👤 **TOTUDANSABO**
+Git: [salisu shamsuddeen](https://github.com/ctotudansabo), [Nwanneka Okoronkwo](https://github.com/152263)
+
+👤 **Totudansabo**
 👤 **Nwanneka Okoronkwo**
 
